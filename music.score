@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="76" beatspermeasure="4">
+   <instrument instrument="PianoInstrument">
+      <pedal measure="1" beat="1" state="down"/>
+      <note measure="1" beat="1" duration="1" velocity="0.45" note="C2"/>
+      <note measure="1" beat="1" duration="2" velocity="0.62" note="E5"/>
+      <note measure="1" beat="1.5" duration="1" velocity="0.37" note="G2"/>
+      <note measure="1" beat="2" duration="1" velocity="0.38" note="C3"/>
+      <note measure="1" beat="2.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="1" beat="3" duration="1" velocity="0.38" note="G3"/>
+      <note measure="1" beat="3" duration="2" velocity="0.42" note="E4"/>
+      <note measure="1" beat="3" duration="2" velocity="0.62" note="G5"/>
+      <note measure="1" beat="3.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="1" beat="4" duration="1" velocity="0.38" note="C3"/>
+      <note measure="1" beat="4.5" duration="1" velocity="0.36" note="G2"/>
+      <note measure="2" beat="1" duration="1" velocity="0.45" note="C2"/>
+      <note measure="2" beat="1" duration="3" velocity="0.62" note="C6"/>
+      <note measure="2" beat="1.5" duration="1" velocity="0.37" note="G2"/>
+      <note measure="2" beat="2" duration="1" velocity="0.38" note="C3"/>
+      <note measure="2" beat="2.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="2" beat="3" duration="1" velocity="0.38" note="G3"/>
+      <note measure="2" beat="3" duration="2" velocity="0.42" note="E4"/>
+      <note measure="2" beat="3.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="2" beat="4" duration="1" velocity="0.38" note="C3"/>
+      <note measure="2" beat="4" duration="1" velocity="0.62" note="B5"/>
+      <note measure="2" beat="4.5" duration="0.5" velocity="0.36" note="G2"/>
+      <pedal measure="3" beat="1" state="up"/>
+      <note measure="3" beat="1" duration="1" velocity="0.47" note="B2"/>
+      <note measure="3" beat="1" duration="1.5" velocity="0.64" note="G5"/>
+      <pedal measure="3" beat="1.25" state="down"/>
+      <note measure="3" beat="1.5" duration="1" velocity="0.39" note="D3"/>
+      <note measure="3" beat="2" duration="1" velocity="0.40" note="G3"/>
+      <note measure="3" beat="2.5" duration="1" velocity="0.42" note="B3"/>
+      <note measure="3" beat="2.5" duration="0.5" velocity="0.64" note="A5"/>
+      <note measure="3" beat="3" duration="1" velocity="0.39" note="D4"/>
+      <note measure="3" beat="3" duration="2" velocity="0.44" note="D4"/>
+      <note measure="3" beat="3" duration="2" velocity="0.64" note="B5"/>
+      <note measure="3" beat="3.5" duration="1" velocity="0.42" note="B3"/>
+      <note measure="3" beat="4" duration="1" velocity="0.39" note="G3"/>
+      <note measure="3" beat="4.5" duration="1" velocity="0.38" note="D3"/>
+      <note measure="4" beat="1" duration="1" velocity="0.47" note="B2"/>
+      <note measure="4" beat="1" duration="3" velocity="0.64" note="D6"/>
+      <note measure="4" beat="1.5" duration="1" velocity="0.39" note="D3"/>
+      <note measure="4" beat="2" duration="1" velocity="0.40" note="G3"/>
+      <note measure="4" beat="2.5" duration="1" velocity="0.42" note="B3"/>
+      <note measure="4" beat="3" duration="1" velocity="0.39" note="D4"/>
+      <note measure="4" beat="3" duration="2" velocity="0.44" note="D4"/>
+      <note measure="4" beat="3.5" duration="1" velocity="0.42" note="B3"/>
+      <note measure="4" beat="4" duration="1" velocity="0.39" note="G3"/>
+      <note measure="4" beat="4" duration="1" velocity="0.64" note="C6"/>
+      <note measure="4" beat="4.5" duration="0.5" velocity="0.38" note="D3"/>
+      <pedal measure="5" beat="1" state="up"/>
+      <note measure="5" beat="1" duration="1" velocity="0.49" note="A1"/>
+      <note measure="5" beat="1" duration="2" velocity="0.66" note="C6"/>
+      <pedal measure="5" beat="1.25" state="down"/>
+      <note measure="5" beat="1.5" duration="1" velocity="0.40" note="E2"/>
+      <note measure="5" beat="2" duration="1" velocity="0.42" note="A2"/>
+      <note measure="5" beat="2.5" duration="1" velocity="0.44" note="C3"/>
+      <note measure="5" beat="3" duration="1" velocity="0.41" note="E3"/>
+      <note measure="5" beat="3" duration="2" velocity="0.46" note="C4"/>
+      <note measure="5" beat="3" duration="2" velocity="0.66" note="B5"/>
+      <note measure="5" beat="3.5" duration="1" velocity="0.44" note="C3"/>
+      <note measure="5" beat="4" duration="1" velocity="0.41" note="A2"/>
+      <note measure="5" beat="4.5" duration="1" velocity="0.40" note="E2"/>
+      <note measure="6" beat="1" duration="1" velocity="0.49" note="A1"/>
+      <note measure="6" beat="1" duration="2" velocity="0.66" note="A5"/>
+      <note measure="6" beat="1.5" duration="1" velocity="0.40" note="E2"/>
+      <note measure="6" beat="2" duration="1" velocity="0.42" note="A2"/>
+      <note measure="6" beat="2.5" duration="1" velocity="0.44" note="C3"/>
+      <note measure="6" beat="3" duration="1" velocity="0.41" note="E3"/>
+      <note measure="6" beat="3" duration="2" velocity="0.46" note="C4"/>
+      <note measure="6" beat="3" duration="2" velocity="0.66" note="E5"/>
+      <note measure="6" beat="3.5" duration="1" velocity="0.44" note="C3"/>
+      <note measure="6" beat="4" duration="1" velocity="0.41" note="A2"/>
+      <note measure="6" beat="4.5" duration="0.5" velocity="0.40" note="E2"/>
+      <pedal measure="7" beat="1" state="up"/>
+      <note measure="7" beat="1" duration="1" velocity="0.52" note="E2"/>
+      <note measure="7" beat="1" duration="2" velocity="0.68" note="G5"/>
+      <pedal measure="7" beat="1.25" state="down"/>
+      <note measure="7" beat="1.5" duration="1" velocity="0.42" note="B2"/>
+      <note measure="7" beat="2" duration="1" velocity="0.44" note="E3"/>
+      <note measure="7" beat="2.5" duration="1" velocity="0.46" note="G3"/>
+      <note measure="7" beat="3" duration="1" velocity="0.43" note="B3"/>
+      <note measure="7" beat="3" duration="2" velocity="0.48" note="G4"/>
+      <note measure="7" beat="3" duration="1" velocity="0.68" note="A5"/>
+      <note measure="7" beat="3.5" duration="1" velocity="0.46" note="G3"/>
+      <note measure="7" beat="4" duration="1" velocity="0.43" note="E3"/>
+      <note measure="7" beat="4" duration="1" velocity="0.68" note="B5"/>
+      <note measure="7" beat="4.5" duration="1" velocity="0.41" note="B2"/>
+      <note measure="8" beat="1" duration="1" velocity="0.52" note="E2"/>
+      <note measure="8" beat="1" duration="3" velocity="0.68" note="E6"/>
+      <note measure="8" beat="1.5" duration="1" velocity="0.42" note="B2"/>
+      <note measure="8" beat="2" duration="1" velocity="0.44" note="E3"/>
+      <note measure="8" beat="2.5" duration="1" velocity="0.46" note="G3"/>
+      <note measure="8" beat="3" duration="1" velocity="0.43" note="B3"/>
+      <note measure="8" beat="3" duration="2" velocity="0.48" note="G4"/>
+      <note measure="8" beat="3.5" duration="1" velocity="0.46" note="G3"/>
+      <note measure="8" beat="4" duration="1" velocity="0.43" note="E3"/>
+      <note measure="8" beat="4" duration="1" velocity="0.68" note="D6"/>
+      <note measure="8" beat="4.5" duration="0.5" velocity="0.41" note="B2"/>
+      <pedal measure="9" beat="1" state="up"/>
+      <note measure="9" beat="1" duration="1" velocity="0.56" note="F2"/>
+      <note measure="9" beat="1" duration="2" velocity="0.72" note="C6"/>
+      <pedal measure="9" beat="1.25" state="down"/>
+      <note measure="9" beat="1.5" duration="1" velocity="0.46" note="C3"/>
+      <note measure="9" beat="2" duration="1" velocity="0.48" note="F3"/>
+      <note measure="9" beat="2.5" duration="1" velocity="0.50" note="A3"/>
+      <note measure="9" beat="3" duration="1" velocity="0.47" note="C4"/>
+      <note measure="9" beat="3" duration="2" velocity="0.53" note="A4"/>
+      <note measure="9" beat="3" duration="2" velocity="0.72" note="A5"/>
+      <note measure="9" beat="3.5" duration="1" velocity="0.50" note="A3"/>
+      <note measure="9" beat="4" duration="1" velocity="0.47" note="F3"/>
+      <note measure="9" beat="4.5" duration="1" velocity="0.45" note="C3"/>
+      <note measure="10" beat="1" duration="1" velocity="0.56" note="F2"/>
+      <note measure="10" beat="1" duration="2" velocity="0.72" note="F5"/>
+      <note measure="10" beat="1.5" duration="1" velocity="0.46" note="C3"/>
+      <note measure="10" beat="2" duration="1" velocity="0.48" note="F3"/>
+      <note measure="10" beat="2.5" duration="1" velocity="0.50" note="A3"/>
+      <note measure="10" beat="3" duration="1" velocity="0.47" note="C4"/>
+      <note measure="10" beat="3" duration="2" velocity="0.53" note="A4"/>
+      <note measure="10" beat="3" duration="2" velocity="0.72" note="A5"/>
+      <note measure="10" beat="3.5" duration="1" velocity="0.50" note="A3"/>
+      <note measure="10" beat="4" duration="1" velocity="0.47" note="F3"/>
+      <note measure="10" beat="4.5" duration="0.5" velocity="0.45" note="C3"/>
+      <pedal measure="11" beat="1" state="up"/>
+      <note measure="11" beat="1" duration="1" velocity="0.58" note="E2"/>
+      <note measure="11" beat="1" duration="2" velocity="0.74" note="G5"/>
+      <pedal measure="11" beat="1.25" state="down"/>
+      <note measure="11" beat="1.5" duration="1" velocity="0.48" note="G2"/>
+      <note measure="11" beat="2" duration="1" velocity="0.50" note="C3"/>
+      <note measure="11" beat="2.5" duration="1" velocity="0.52" note="E3"/>
+      <note measure="11" beat="3" duration="1" velocity="0.49" note="G3"/>
+      <note measure="11" beat="3" duration="2" velocity="0.55" note="G4"/>
+      <note measure="11" beat="3" duration="2" velocity="0.74" note="E5"/>
+      <note measure="11" beat="3.5" duration="1" velocity="0.52" note="E3"/>
+      <note measure="11" beat="4" duration="1" velocity="0.49" note="C3"/>
+      <note measure="11" beat="4.5" duration="1" velocity="0.47" note="G2"/>
+      <note measure="12" beat="1" duration="1" velocity="0.58" note="E2"/>
+      <note measure="12" beat="1" duration="2" velocity="0.74" note="G5"/>
+      <note measure="12" beat="1.5" duration="1" velocity="0.48" note="G2"/>
+      <note measure="12" beat="2" duration="1" velocity="0.50" note="C3"/>
+      <note measure="12" beat="2.5" duration="1" velocity="0.52" note="E3"/>
+      <note measure="12" beat="3" duration="1" velocity="0.49" note="G3"/>
+      <note measure="12" beat="3" duration="2" velocity="0.55" note="G4"/>
+      <note measure="12" beat="3" duration="2" velocity="0.74" note="C6"/>
+      <note measure="12" beat="3.5" duration="1" velocity="0.52" note="E3"/>
+      <note measure="12" beat="4" duration="1" velocity="0.49" note="C3"/>
+      <note measure="12" beat="4.5" duration="0.5" velocity="0.47" note="G2"/>
+      <pedal measure="13" beat="1" state="up"/>
+      <note measure="13" beat="1" duration="1" velocity="0.60" note="D2"/>
+      <note measure="13" beat="1" duration="2" velocity="0.76" note="D6"/>
+      <pedal measure="13" beat="1.25" state="down"/>
+      <note measure="13" beat="1.5" duration="1" velocity="0.50" note="A2"/>
+      <note measure="13" beat="2" duration="1" velocity="0.52" note="C3"/>
+      <note measure="13" beat="2.5" duration="1" velocity="0.54" note="F3"/>
+      <note measure="13" beat="3" duration="1" velocity="0.51" note="A3"/>
+      <note measure="13" beat="3" duration="2" velocity="0.57" note="F4"/>
+      <note measure="13" beat="3" duration="2" velocity="0.76" note="C6"/>
+      <note measure="13" beat="3.5" duration="1" velocity="0.54" note="F3"/>
+      <note measure="13" beat="4" duration="1" velocity="0.51" note="C3"/>
+      <note measure="13" beat="4.5" duration="1" velocity="0.49" note="A2"/>
+      <note measure="14" beat="1" duration="1" velocity="0.60" note="D2"/>
+      <note measure="14" beat="1" duration="2" velocity="0.76" note="A5"/>
+      <note measure="14" beat="1.5" duration="1" velocity="0.50" note="A2"/>
+      <note measure="14" beat="2" duration="1" velocity="0.52" note="C3"/>
+      <note measure="14" beat="2.5" duration="1" velocity="0.54" note="F3"/>
+      <note measure="14" beat="3" duration="1" velocity="0.51" note="A3"/>
+      <note measure="14" beat="3" duration="2" velocity="0.57" note="F4"/>
+      <note measure="14" beat="3" duration="1" velocity="0.76" note="F5"/>
+      <note measure="14" beat="3.5" duration="1" velocity="0.54" note="F3"/>
+      <note measure="14" beat="4" duration="1" velocity="0.51" note="C3"/>
+      <note measure="14" beat="4" duration="1" velocity="0.76" note="A5"/>
+      <note measure="14" beat="4.5" duration="0.5" velocity="0.49" note="A2"/>
+      <pedal measure="15" beat="1" state="up"/>
+      <note measure="15" beat="1" duration="1" velocity="0.63" note="G2"/>
+      <note measure="15" beat="1" duration="2" velocity="0.78" note="B5"/>
+      <pedal measure="15" beat="1.25" state="down"/>
+      <note measure="15" beat="1.5" duration="1" velocity="0.52" note="D3"/>
+      <note measure="15" beat="2" duration="1" velocity="0.54" note="G3"/>
+      <note measure="15" beat="2.5" duration="1" velocity="0.56" note="B3"/>
+      <note measure="15" beat="3" duration="1" velocity="0.53" note="D4"/>
+      <note measure="15" beat="3" duration="2" velocity="0.59" note="D4"/>
+      <note measure="15" beat="3" duration="2" velocity="0.78" note="D6"/>
+      <note measure="15" beat="3.5" duration="1" velocity="0.56" note="B3"/>
+      <note measure="15" beat="4" duration="1" velocity="0.53" note="G3"/>
+      <note measure="15" beat="4.5" duration="1" velocity="0.50" note="D3"/>
+      <note measure="16" beat="1" duration="1" velocity="0.63" note="G2"/>
+      <note measure="16" beat="1" duration="3" velocity="0.78" note="G5"/>
+      <note measure="16" beat="1.5" duration="1" velocity="0.52" note="D3"/>
+      <note measure="16" beat="2" duration="1" velocity="0.54" note="G3"/>
+      <note measure="16" beat="2.5" duration="1" velocity="0.56" note="B3"/>
+      <note measure="16" beat="3" duration="1" velocity="0.53" note="D4"/>
+      <note measure="16" beat="3" duration="2" velocity="0.59" note="D4"/>
+      <note measure="16" beat="3.5" duration="1" velocity="0.56" note="B3"/>
+      <note measure="16" beat="4" duration="1" velocity="0.53" note="G3"/>
+      <note measure="16" beat="4" duration="1" velocity="0.78" note="B5"/>
+      <note measure="16" beat="4.5" duration="0.5" velocity="0.50" note="D3"/>
+      <pedal measure="17" beat="1" state="up"/>
+      <note measure="17" beat="1" duration="1" velocity="0.67" note="A1"/>
+      <note measure="17" beat="1" duration="2" velocity="0.85" note="C6"/>
+      <pedal measure="17" beat="1.25" state="down"/>
+      <note measure="17" beat="1.5" duration="1" velocity="0.55" note="E2"/>
+      <note measure="17" beat="2" duration="1" velocity="0.58" note="A2"/>
+      <note measure="17" beat="2.5" duration="1" velocity="0.60" note="C3"/>
+      <note measure="17" beat="3" duration="1" velocity="0.56" note="E3"/>
+      <note measure="17" beat="3" duration="2" velocity="0.63" note="E4"/>
+      <note measure="17" beat="3" duration="1" velocity="0.85" note="D6"/>
+      <note measure="17" beat="3.5" duration="1" velocity="0.60" note="C3"/>
+      <note measure="17" beat="4" duration="1" velocity="0.56" note="A2"/>
+      <note measure="17" beat="4" duration="1" velocity="0.85" note="E6"/>
+      <note measure="17" beat="4.5" duration="1" velocity="0.54" note="E2"/>
+      <note measure="18" beat="1" duration="1" velocity="0.67" note="A1"/>
+      <note measure="18" beat="1" duration="2" velocity="0.85" note="A5"/>
+      <note measure="18" beat="1.5" duration="1" velocity="0.55" note="E2"/>
+      <note measure="18" beat="2" duration="1" velocity="0.58" note="A2"/>
+      <note measure="18" beat="2.5" duration="1" velocity="0.60" note="C3"/>
+      <note measure="18" beat="3" duration="1" velocity="0.56" note="E3"/>
+      <note measure="18" beat="3" duration="2" velocity="0.63" note="E4"/>
+      <note measure="18" beat="3" duration="2" velocity="0.85" note="C6"/>
+      <note measure="18" beat="3.5" duration="1" velocity="0.60" note="C3"/>
+      <note measure="18" beat="4" duration="1" velocity="0.56" note="A2"/>
+      <note measure="18" beat="4.5" duration="0.5" velocity="0.54" note="E2"/>
+      <pedal measure="19" beat="1" state="up"/>
+      <note measure="19" beat="1" duration="1" velocity="0.69" note="F2"/>
+      <note measure="19" beat="1" duration="2" velocity="0.85" note="A5"/>
+      <pedal measure="19" beat="1.25" state="down"/>
+      <note measure="19" beat="1.5" duration="1" velocity="0.57" note="C3"/>
+      <note measure="19" beat="2" duration="1" velocity="0.60" note="F3"/>
+      <note measure="19" beat="2.5" duration="1" velocity="0.62" note="A3"/>
+      <note measure="19" beat="3" duration="1" velocity="0.58" note="C4"/>
+      <note measure="19" beat="3" duration="2" velocity="0.65" note="A4"/>
+      <note measure="19" beat="3" duration="2" velocity="0.85" note="C6"/>
+      <note measure="19" beat="3.5" duration="1" velocity="0.62" note="A3"/>
+      <note measure="19" beat="4" duration="1" velocity="0.58" note="F3"/>
+      <note measure="19" beat="4.5" duration="1" velocity="0.56" note="C3"/>
+      <note measure="20" beat="1" duration="1" velocity="0.69" note="F2"/>
+      <note measure="20" beat="1" duration="2" velocity="0.85" note="F6"/>
+      <note measure="20" beat="1.5" duration="1" velocity="0.57" note="C3"/>
+      <note measure="20" beat="2" duration="1" velocity="0.60" note="F3"/>
+      <note measure="20" beat="2.5" duration="1" velocity="0.62" note="A3"/>
+      <note measure="20" beat="3" duration="1" velocity="0.58" note="C4"/>
+      <note measure="20" beat="3" duration="2" velocity="0.65" note="A4"/>
+      <note measure="20" beat="3" duration="2" velocity="0.85" note="E6"/>
+      <note measure="20" beat="3.5" duration="1" velocity="0.62" note="A3"/>
+      <note measure="20" beat="4" duration="1" velocity="0.58" note="F3"/>
+      <note measure="20" beat="4.5" duration="0.5" velocity="0.56" note="C3"/>
+      <pedal measure="21" beat="1" state="up"/>
+      <note measure="21" beat="1" duration="1" velocity="0.65" note="G2"/>
+      <note measure="21" beat="1" duration="2" velocity="0.80" note="D6"/>
+      <pedal measure="21" beat="1.25" state="down"/>
+      <note measure="21" beat="1.5" duration="1" velocity="0.53" note="D3"/>
+      <note measure="21" beat="2" duration="1" velocity="0.56" note="G3"/>
+      <note measure="21" beat="2.5" duration="1" velocity="0.58" note="C4"/>
+      <note measure="21" beat="3" duration="1" velocity="0.55" note="D4"/>
+      <note measure="21" beat="3" duration="2" velocity="0.61" note="D4"/>
+      <note measure="21" beat="3" duration="2" velocity="0.80" note="C6"/>
+      <note measure="21" beat="3.5" duration="1" velocity="0.58" note="C4"/>
+      <note measure="21" beat="4" duration="1" velocity="0.55" note="G3"/>
+      <note measure="21" beat="4.5" duration="1" velocity="0.52" note="D3"/>
+      <note measure="22" beat="1" duration="1" velocity="0.65" note="G2"/>
+      <note measure="22" beat="1" duration="2" velocity="0.80" note="B5"/>
+      <note measure="22" beat="1.5" duration="1" velocity="0.53" note="D3"/>
+      <note measure="22" beat="2" duration="1" velocity="0.56" note="G3"/>
+      <note measure="22" beat="2.5" duration="1" velocity="0.58" note="B3"/>
+      <note measure="22" beat="3" duration="1" velocity="0.55" note="D4"/>
+      <note measure="22" beat="3" duration="2" velocity="0.61" note="B3"/>
+      <note measure="22" beat="3" duration="2" velocity="0.80" note="D6"/>
+      <note measure="22" beat="3.5" duration="1" velocity="0.58" note="B3"/>
+      <note measure="22" beat="4" duration="1" velocity="0.55" note="G3"/>
+      <note measure="22" beat="4.5" duration="0.5" velocity="0.52" note="D3"/>
+      <pedal measure="23" beat="1" state="up"/>
+      <note measure="23" beat="1" duration="1" velocity="0.47" note="C2"/>
+      <note measure="23" beat="1" duration="2" velocity="0.60" note="G5"/>
+      <pedal measure="23" beat="1.25" state="down"/>
+      <note measure="23" beat="1.5" duration="1" velocity="0.39" note="G2"/>
+      <note measure="23" beat="2" duration="1" velocity="0.40" note="C3"/>
+      <note measure="23" beat="2.5" duration="1" velocity="0.42" note="E3"/>
+      <note measure="23" beat="3" duration="1" velocity="0.39" note="G3"/>
+      <note measure="23" beat="3" duration="2" velocity="0.44" note="E4"/>
+      <note measure="23" beat="3" duration="2" velocity="0.60" note="E5"/>
+      <note measure="23" beat="3.5" duration="1" velocity="0.42" note="E3"/>
+      <note measure="23" beat="4" duration="1" velocity="0.39" note="C3"/>
+      <note measure="23" beat="4.5" duration="1" velocity="0.38" note="G2"/>
+      <note measure="24" beat="1" duration="4" velocity="0.48" note="C2"/>
+      <note measure="24" beat="1" duration="4" velocity="0.42" note="G2"/>
+      <note measure="24" beat="1" duration="4" velocity="0.42" note="C3"/>
+      <note measure="24" beat="1" duration="4" velocity="0.42" note="E3"/>
+      <note measure="24" beat="1" duration="4" velocity="0.42" note="G3"/>
+      <note measure="24" beat="1" duration="4" velocity="0.42" note="C4"/>
+      <note measure="24" beat="1" duration="4" velocity="0.42" note="E4"/>
+      <note measure="24" beat="1" duration="4" velocity="0.60" note="C6"/>
+      <pedal measure="25" beat="1" state="up"/>
+   </instrument>
+</score>

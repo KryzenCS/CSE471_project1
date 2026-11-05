@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="76" beatspermeasure="4">
+   <instrument instrument="PianoInstrument">
+      <pedal measure="1" beat="1" state="down"/>
+      <note measure="1" beat="1" duration="1" velocity="0.45" note="C2"/>
+      <note measure="1" beat="1" duration="2" velocity="0.62" note="E5"/>
+      <note measure="1" beat="1.5" duration="1" velocity="0.37" note="G2"/>
+      <note measure="1" beat="2" duration="1" velocity="0.38" note="C3"/>
+      <note measure="1" beat="2.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="1" beat="3" duration="1" velocity="0.38" note="G3"/>
+      <note measure="1" beat="3" duration="2" velocity="0.42" note="E4"/>
+      <note measure="1" beat="3" duration="2" velocity="0.62" note="G5"/>
+      <note measure="1" beat="3.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="1" beat="4" duration="1" velocity="0.38" note="C3"/>
+      <note measure="1" beat="4.5" duration="1" velocity="0.36" note="G2"/>
+      <note measure="2" beat="1" duration="1" velocity="0.45" note="C2"/>
+      <note measure="2" beat="1" duration="3" velocity="0.62" note="C6"/>
+      <note measure="2" beat="1.5" duration="1" velocity="0.37" note="G2"/>
+      <note measure="2" beat="2" duration="1" velocity="0.38" note="C3"/>
+      <note measure="2" beat="2.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="2" beat="3" duration="1" velocity="0.38" note="G3"/>
+      <note measure="2" beat="3" duration="2" velocity="0.42" note="E4"/>
+      <note measure="2" beat="3.5" duration="1" velocity="0.40" note="E3"/>
+      <note measure="2" beat="4" duration="1" velocity="0.38" note="C3"/>
+      <note measure="2" beat="4" duration="1" velocity="0.62" note="B5"/>
+      <note measure="2" beat="4.5" duration="0.5" velocity="0.36" note="G2"/>
+      <pedal measure="3" beat="1" state="up"/>
+      <note measure="3" beat="1" duration="1" velocity="0.47" note="B2"/>
+      <note measure="3" beat="1" duration="1.5" velocity="0.64" note="G5"/>
+      <pedal measure="3" beat="1.25" state="down"/>
+      <note measure="3" beat="1.5" duration="1" velocity="0.39" note="D3"/>
+      <note measure="3" beat="2" duration="1" velocity="0.40" note="G3"/>
+      <note measure="3" beat="2.5" duration="1" velocity="0.42" note="B3"/>
+      <note measure="3" beat="2.5" duration="0.5" velocity="0.64" note="A5"/>
+      <note measure="3" beat="3" duration="1" velocity="0.39" note="D4"/>
+      <note measure="3" beat="3" duration="2" velocity="0.44" note="D4"/>
+      <note measure="3" beat="3" duration="2" velocity="0.64" note="B5"/>
+      <note measure="3" beat="3.5" duration="1" velocity="0.42" note="B3"/>
+      <note measure="3" beat="4" duration="1" velocity="0.39" note="G3"/>
+      <note measure="3" beat="4.5" duration="1" velocity="0.38" note="D3"/>
+      <note measure="4" beat="1" duration="1" velocity="0.47" note="B2"/>
+      <note measure="4" beat="1" duration="2" velocity="0.64" note="D6"/>
+      <note measure="4" beat="1.5" duration="1" velocity="0.39" note="D3"/>
+      <note measure="4" beat="2" duration="1" velocity="0.40" note="G3"/>
+      <note measure="4" beat="2.5" duration="0.5" velocity="0.42" note="B3"/>
+      <pedal measure="4" beat="3" state="up"/>
+   </instrument>
+</score>
