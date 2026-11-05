@@ -32,27 +32,34 @@
         </p>
 
         <h2>How does the Piano Synthesizer Work?</h2>
+
         <p>The piano synthesizer plays pre-recorded piano notes. The sequencer reads the score file
            and creates a piano note and starts it as it moves along. Each note produces one audio frame.
            The sequencer then puts all the notes together, passes it through the effects component, and writes to
            the output.
+        <p>
 
-           10 - Plays Piano Notes
+        <p>10 - Plays Piano Notes
            Converts a notes name in the score to a .wav file, then plays the key. Works for all 88 keys in the
            complete piano zip file.
+        </p>
 
-           20 - Envelope Generation
+        <p>20 - Envelope Generation
            Each note fades in over 5 milliseconds and fades out over 0.3 seconds after the key is released
+        </p>
 
-           30 - Pedal Simulation
+        <p>30 - Pedal Simulation
            Score has pedal events. Pedal events have states up or down. When the state is up, the sound fades.
            When the state is down, the note keeps ringing until the pedal state is up.
-
-           35 - Basic Dynamics
-           Velocity represents how hard a key is pressed. This affects how loud the sound of a note is.
-
-           40 - Pedal Noise
-           Introduces the pre-recorded pedal noises. This is played at every pedal event.
         </p>
+
+        <p>35 - Basic Dynamics
+           Velocity represents how hard a key is pressed. This affects how loud the sound of a note is.
+        </p>
+
+        <p>40 - Pedal Noise
+           Introduces the pre-recorded pedal noises. This is played at every pedal event.
+        <p>
+
     </main>
 </body>
